@@ -1,0 +1,2 @@
+# myIcon
+animated spinning icon
